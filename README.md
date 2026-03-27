@@ -1,5 +1,5 @@
 # The Engineering Behind Silent
-[Access the site here](https://chatsilent.vercel.app) or [Here](https://silent-chat.onrender.com)<br><br>
+[Access the site here](https://silent.yaash.dev)<br><br>
 When I created SilentChat, I wanted to build more than just another chat application. My goal was to craft a real-time anonymous communication platform that balances performance, security, and user experience while solving several fundamental engineering challenges I've observed in similar applications. This document outlines my thinking process, engineering decisions, and the technical rationale behind SilentChat's architecture.
 
 ## Project Structure Overview
